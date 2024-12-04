@@ -27,7 +27,7 @@ I love chess ♞ ,robotics🤖, programming💻, innovation and finding solution
 - ## **Mini Smart Garden Robot**
 - ## **3D Printed Mini Smart Garden Robot**
   
-- # 🫴🏻 I’m looking to collaborate With my brother Ibrahim, he is the best programmer I have ever seen and will be a good teacher.
+- # 🫴🏻 I’m looking to collaborate With programmers interested in programming, engineering, robotics and problem solving.
 <!---
 malak-sisar/malak-sisar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
