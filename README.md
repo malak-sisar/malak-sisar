@@ -15,7 +15,7 @@ I love chess ♞ ,robotics🤖, programming💻, innovation and finding solution
 - ## 🙏🏻 And i hope to study all other programming languages.
   
 # Achievements:
-- We participated in the **NRO** competition in Gaza and won **first place** and the **WRO** in Dortmund, Germany and won **ninth place** worldwide in the future innovators category with a team of three members (me, my father and my brother) and the team name is **the Innovation Family**
+- We participated in the **WRO** competition in Gaza and won **first place** and the **WRO** in Dortmund, Germany and won **ninth place** worldwide in the future innovators category with a team of three members (me, my father and my brother) and the team name is **the Innovation Family**
 
 - **Programming and Artificial Intelligence Olympiad competition** and we won **first place** and **the Grand Exhibition Prize**
 
