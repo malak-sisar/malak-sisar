@@ -8,7 +8,7 @@ I love chess ♞ ,robotics🤖, programming💻, innovation and finding solution
 # What do I do??
 - Building advanced robots 🤖 using Arduino and ESP32.
 - Repairing and designing electronic circuits.
--Building different robot bodies 🤖 using 3D printer
+- Building different robot bodies 🤖 using 3D printer
 ----
 # What do I learn?
 - ## 🌱 I’m currently learning Computer science
