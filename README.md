@@ -3,7 +3,7 @@
 - ## 👩🏻‍💻 About me
 - ### Hello everyone, I am ***Malak Said Abu Al-Roos***, 17 years old,***University engineering student***, programmer, innovative and interested in technology.
 
-I love chess ♞ ,robotics🤖, programming💻, innovation and finding solutions to problems that I face and others face.
+I love chess ♞ ,robotics🤖, programming💻, graphic designer, innovation and finding solutions to problems that I face and others face.
 -----
 # What do I do??
 - Building advanced robots 🤖 using Arduino and ESP32.
