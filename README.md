@@ -9,7 +9,7 @@ I love chess ♞ ,robotics🤖, programming💻, graphic design , innovation and
 - Building advanced robots 🤖 using Arduino and ESP32.
 - Repairing and designing electronic circuits.
 - Building different robot bodies 🤖 using 3D printer.
-- Design logos, brochures, posters, business cards.
+- Design logos, brochures, posters and business cards.
 ----
 # What do I learn?
 - ## 🌱 I’m currently learning Computer science
