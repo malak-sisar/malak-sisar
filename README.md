@@ -14,6 +14,8 @@ I love chess ♞ ,robotics🤖, programming💻, graphic design , innovation and
 # What do I learn?
 - ## 🌱 I’m currently learning Computer science
 - ## 🙏🏻 And i hope to study all other programming languages.
+
+
   
 # 🏆 Achievements:
 - We participated in the **NRO** competition in Gaza and won **first place** and the **WRO** in Dortmund, Germany and won **ninth place** worldwide in the future innovators category with a team of three members (me, my father and my brother) and the team name is **the Innovation Family**
