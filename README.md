@@ -22,6 +22,7 @@ I love chess ♞ ,robotics🤖, programming💻, graphic design , innovation and
 
 - My brother and I were speakers on the global **TEDx platform** and talked about our ideas in front of the audience
 
+ 
 # 🤖 Robots:
 - ## **AGRIBOT Robot**
 - ## **Big smart Garden Robot**
