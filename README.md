@@ -11,7 +11,7 @@ I love chess ♞ ,robotics🤖, programming💻, graphic design , innovation and
 - Building different robot bodies 🤖 using 3D printer.
 - Design logos, brochures, posters and business cards.
 ----
-# What do I learn?             
+# What do I learn?                                   
 - ## 🌱 I’m currently learning Computer science
 - ## 🙏🏻 And i hope to study all other programming languages.
 
