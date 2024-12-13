@@ -70,7 +70,6 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=malak-sisar)](https://git.io/streak-stats)
 
 </a>
-<a href="https://github.com/ilyesw?tab=followers"><img src="https://img.shields.io/github/followers/ilyesw?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;">
 </h3>
