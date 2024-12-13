@@ -4,6 +4,11 @@
 - ### Hello everyone, I am ***Malak Said Abu Al-Roos***, 17 years old,***University engineering student***, programmer,graphic designer, innovative and interested in technology.
 
 I love chess ♞ ,robotics🤖, programming💻, graphic design , innovation and finding solutions to problems that I face and others face.
+<br>
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/malak-sisar?label=Follow&style=social)](https://github.com/malak-sisar/?tab=follow)
+
 -----
 # What do I do??
 - Building advanced robots 🤖 using Arduino and ESP32.
@@ -29,11 +34,31 @@ I love chess ♞ ,robotics🤖, programming💻, graphic design , innovation and
 - ## **Mini Smart Garden Robot**
 - ## **3D Printed Mini Smart Garden Robot**
 
-[![GitHub followers](https://img.shields.io/github/followers/malak-sisar?label=Follow&style=social)](https://github.com/malak-sisar/?tab=follow)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=malak-sisar)](https://git.io/streak-stats)
   
 - # 🫴🏻 I’m looking to collaborate With programmers interested in programming, engineering, robotics and problem solving.
 <!---
 malak-sisar/malak-sisar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br>
+
+</div>
+
+<div align="center">
+</br>
+</br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+<br>
+<br>
+
+</div>
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=malak-sisar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="malak-sisar Github Stats">
+<br>
+<br> 
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=malak-sisar)](https://git.io/streak-stats)
