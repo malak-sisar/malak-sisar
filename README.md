@@ -2,7 +2,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+ُEveryone!+👋;+✨+Welcome+to+my+Github+profile!+✨;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+✨+Welcome+to+my+Github+profile!+✨;">
 </h1>
 
 - ## 👩🏻‍💻 About me      
