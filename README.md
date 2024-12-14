@@ -10,8 +10,6 @@
       
 </h1>
 <br>
-<br> 
-<br> 
 
 - ## 👩🏻‍💻 About me      
 - ### Hello everyone, I am ***Malak Said Abu Al-Roos***, 17 years old,***University engineering student***, programmer,graphic designer, innovative and interested in technology.
