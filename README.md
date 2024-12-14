@@ -29,13 +29,13 @@ I love chess ♞ ,robotics🤖, programming💻, graphic design , innovation and
 
 
 -----
-# What do I do??
+# What do I do 🧐??
 - Building advanced robots 🤖 using Arduino and ESP32.
 - Repairing and designing electronic circuits.
 - Building different robot bodies 🤖 using 3D printer.
 - Design logos, brochures, posters and business cards.
 ----
-# What do I learn? 
+# What do I learn 🧐 ? 
 - ## </> I am currently learning to become a front-end developer.
 - ## 👩🏻‍💻 I also hope to learn how to become a full stack.
 
@@ -81,6 +81,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 <br>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!+🫶;I'm+waiting for+you+again!+🤓;Have+a+good+day!+😊" alt="Typing SVG" /></a>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
