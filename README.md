@@ -35,9 +35,15 @@ I love chess ♞ ,robotics🤖, programming💻, graphic design , innovation and
 - Building different robot bodies 🤖 using 3D printer.
 - Design logos, brochures, posters and business cards.
 ----
+<br>
+
 # What do I learn 🧐 ? 
-- ### </> I am currently learning to become a front-end developer.
-- ### 👩🏻‍💻 I also hope to learn how to become a full stack.
+
+### </> I am currently learning to become a front-end developer.
+### 👩🏻‍💻 I also hope to learn how to become a full stack.
+
+<br>
+<br>
 
 # 🏆 Achievements:     
 - We participated in the **NRO** competition in Gaza and won **first place** and the **WRO** in Dortmund, Germany and won **ninth place** worldwide in the future innovators category with a team of three members (me, my father and my brother) and the team name is **the Innovation Family**
@@ -46,19 +52,23 @@ I love chess ♞ ,robotics🤖, programming💻, graphic design , innovation and
 
 - My brother and I were speakers on the global **TEDx platform** and talked about our ideas in front of the audience
 
- 
+ <br>
+
 # 🤖 Robots:
 - ## **AGRIBOT Robot**
 - ## **Big smart Garden Robot**
 - ## **Mini Smart Garden Robot**
 - ## **3D Printed Mini Smart Garden Robot**
 
-  
+  <br>
+
 - # 🫴🏻 I’m looking to collaborate With programmers interested in programming, engineering, robotics and problem solving.
 <!---
 malak-sisar/malak-sisar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br>
+
 </div>
 
 <div align="center">
