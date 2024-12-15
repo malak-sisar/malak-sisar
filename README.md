@@ -61,6 +61,9 @@ I love chess ♞ ,robotics🤖, programming💻, graphic design , innovation and
 - ## **3D Printed Mini Smart Garden Robot**
 
   <br>
+  
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=malak-sisar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 - # 🫴🏻 I’m looking to collaborate With programmers interested in programming, engineering, robotics and problem solving.
 <!---
