@@ -15,18 +15,20 @@
       
 [![GitHub Streak](https://streak-stats.demolab.com?user=malak-sisar&theme=ambient-gradient)](https://git.io/streak-stats)</a>
 </h1>
-<br>
-<br>
 
+
+<a href="https://github.com/ilyesw/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=malak-sisar">
+    
+  [![GitHub followers](https://img.shields.io/github/followers/malak-sisar?label=Follow&style=social)](https://github.com/malak-sisar/?tab=follow)
+    
 - ## 👩🏻‍💻 About me      
 - ### Hello everyone, I am ***Malak Said Abu Al-Roos***, 17 years old,***University engineering student***, programmer,graphic designer, innovative and interested in technology.
 
 I love chess ♞ ,robotics🤖, programming💻, graphic design , innovation and finding solutions to problems that I face and others face.
 <br>
 <br>
-<a href="https://github.com/ilyesw/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=malak-sisar">
-[![GitHub followers](https://img.shields.io/github/followers/malak-sisar?label=Follow&style=social)](https://github.com/malak-sisar/?tab=follow)
+
 
 
 
@@ -100,4 +102,3 @@ You can click the Preview link to take a look at your changes.
 <br>
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!+🫶;I'm+waiting for+you+again!+🤓;Have+a+good+day!+😊" alt="Typing SVG" /></a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
