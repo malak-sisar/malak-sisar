@@ -79,6 +79,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 </i><br>
+
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 
@@ -87,6 +88,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://streak-stats.demolab.com?user=malak-sisar&theme=ambient-gradient)](https://git.io/streak-stats)</a>
 
 <div align="center">
+           
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=malak-sisar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="malak-sisar Github Stats">
 
 </div>
