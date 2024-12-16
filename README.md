@@ -1,24 +1,27 @@
 
+
 <img width=100% title="malak-sisar" alt="malak-sisar" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome+to+my+profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
-               
+           
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=600&height=25%&lines=✨+Hi+Everyone+✨;+My+name+is+malak+🧕🏻;+A+university+engineering+student;+Learn+to+become+a+front-end+developer;" alt="Typing SVG" /></a>
 </div> 
 <br>
 
+ <div align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="center"> 
+ </div>
+<br>
 
-  <h1 align="center">
-      
-[![GitHub Streak](https://streak-stats.demolab.com?user=malak-sisar&theme=ambient-gradient)](https://git.io/streak-stats)</a>
-</h1>
+  
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=malak-sisar&label=Visitors&color=0e75b6&style=flat" alt="malak-sisar" /> <img src="https://img.shields.io/github/followers/malak-sisar?label=Followers&style=flat&color=0e75b6" alt="malak-sisar"/>
+<a href="https://github.com/malak-sisar?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/malak-sisar"/></a>
 
+  </p>
 
-<a href="https://github.com/ilyesw/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=malak-sisar">
-    
-  [![GitHub followers](https://img.shields.io/github/followers/malak-sisar?label=Follow&style=social)](https://github.com/malak-sisar/?tab=follow)
     
 - ## 👩🏻‍💻 About me      
 - ### Hello everyone, I am ***Malak Said Abu Al-Roos***, 17 years old,***University engineering student***, programmer,graphic designer, innovative and interested in technology.
@@ -63,40 +66,34 @@ I love chess ♞ ,robotics🤖, programming💻, graphic design , innovation and
 - ## **3D Printed Mini Smart Garden Robot**
 
   <br>
-  
+
+
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=malak-sisar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- ## 🫴🏻 I’m looking to collaborate With programmers interested in programming, engineering, robotics and problem solving.
 <!---
 malak-sisar/malak-sisar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br>
-
-</div>
 
 <div align="center">
-</br>
-</br>
+
 </i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-<br>
-<br>
+
+
+ <h1 align="center">
+   
+[![GitHub Streak](https://streak-stats.demolab.com?user=malak-sisar&theme=ambient-gradient)](https://git.io/streak-stats)</a>
+
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=malak-sisar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="malak-sisar Github Stats">
 
 </div>
 
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=malak-sisar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="malak-sisar Github Stats">
-<br>
-<br> 
-<br>
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
 <br>
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!+🫶;I'm+waiting for+you+again!+🤓;Have+a+good+day!+😊" alt="Typing SVG" /></a>
 </div>
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
