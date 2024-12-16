@@ -1,8 +1,5 @@
-<div align="center">
-    
-![Bottom_up](https://github.com/user-attachments/assets/928050e1-f59e-465e-a141-f878052da1fc)<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 200">
-   </div>
 
+<img width=100% title="malak-sisar" alt="malak-sisar" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome+to+my+profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
                
