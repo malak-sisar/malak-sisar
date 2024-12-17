@@ -78,16 +78,15 @@ malak-sisar/malak-sisar is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+ <h1 align="center">
+   
+[![GitHub Streak](https://streak-stats.demolab.com?user=malak-sisar&theme=ambient-gradient)](https://git.io/streak-stats)</a>
 <div align="center">
 
 </i><br>
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
-
- <h1 align="center">
-   
-[![GitHub Streak](https://streak-stats.demolab.com?user=malak-sisar&theme=ambient-gradient)](https://git.io/streak-stats)</a>
 
 <div align="center">
            
