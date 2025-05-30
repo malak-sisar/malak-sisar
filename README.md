@@ -16,6 +16,9 @@ Always eager to learn and create innovative projects that merge art and technolo
 
 ---
 
+ ![StreakHub](https://streakhub.onrender.com/widget/YOUR_GITHUB_USERNAME)
+
+---
 ## 💼 Areas of Interest
 
 - 🎨 Graphic Design (visual identity, UI/UX, digital illustration)
