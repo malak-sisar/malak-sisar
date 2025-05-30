@@ -15,11 +15,7 @@ I love exploring the worlds of **graphic design** and **robotics**.
 Always eager to learn and create innovative projects that merge art and technology.
 
 ---
-<p align="center">
-  <img src="https://streakhub.onrender.com/widget/malak-sisar?v=20250528" alt="StreakHub Example" width="420" />
-</p>
 
----
 ## 💼 Areas of Interest
 
 - 🎨 Graphic Design (visual identity, UI/UX, digital illustration)
@@ -37,7 +33,11 @@ Always eager to learn and create innovative projects that merge art and technolo
 ---
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img src="https://streakhub.onrender.com/widget/malak-sisar?v=20250528" alt="StreakHub Example" width="420" />
+</p>
 
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malak-sisar&show_icons=true&theme=dracula" alt="github stats" />
   <br/>
