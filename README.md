@@ -15,8 +15,9 @@ I love exploring the worlds of **graphic design** and **robotics**.
 Always eager to learn and create innovative projects that merge art and technology.
 
 ---
-
- ![StreakHub](https://streakhub.onrender.com/widget/YOUR_GITHUB_USERNAME)
+<p align="center">
+  <img src="https://streakhub.onrender.com/widget/malak-sisar?v=20250528" alt="StreakHub Example" width="420" />
+</p>
 
 ---
 ## 💼 Areas of Interest
