@@ -34,7 +34,7 @@ Always eager to learn and create innovative projects that merge art and technolo
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://streakhub.onrender.com/widget/malak-sisar?v=20250528" alt="StreakHub Example" width="420" />
+  <img src="https://streakhub.onrender.com/widget/malak-sisar?v=20250528"width="420" />
 </p>
 
 ---
