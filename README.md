@@ -27,7 +27,7 @@ Always eager to learn and create innovative projects that merge art and technolo
 ## 🛠️ Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,blender,arduino,js,git,vscode" alt="tools I use" />
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,blender,arduino,vscode" alt="tools I use" />
 </p>
 
 ---
