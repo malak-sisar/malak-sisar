@@ -6,6 +6,13 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120" alt="creative tech gif" />
 </p>
 
+<div align=center> 
+ 
+ ![Free Palestine](https://img.shields.io/badge/FreePalestine-%F0%9F%87%B5%F0%9F%87%B8%20Tech_For_Palestine-D83838?labelColor=01B861&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+[![ReadMeViews](https://komarev.com/ghpvc/?username=malak-sisar&style=flat-square&color=blueviolet)](https://www.linkedin.com/in/sondosaabed/)
+
+ 
 ---        
      
 ## ✨ About Me
@@ -57,3 +64,7 @@ Always eager to learn and create innovative projects that merge art and technolo
 ## 🌟 Favorite Quote
 
 > "Art doesn’t stop at the edge of the canvas, and technology is more than code... Together, they create a whole new world." 🌍✨
+---
+## In Conclusion
+ [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+---
