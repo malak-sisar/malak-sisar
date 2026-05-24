@@ -25,7 +25,9 @@
 
 ```yaml
 name       : Malak Sisar
+age        : 19
 role       : Graphic Designer & Robotics Enthusiast
+education  : Computer Engineering Student 🎓
 passion    : Where art meets engineering
 superpower : Turning ideas into visual and mechanical reality
 currently  : Building projects that merge creativity & tech
@@ -97,15 +99,49 @@ quote      : "Art doesn't end at the canvas edge,
 
 ---
 
-## 🌟 Favorite Quote
+## 💬 Quotes That Drive Me
 
 <div align="center">
 
+🍎 *Steve Jobs once said:*
+
+> **"Technology alone is not enough. It's technology married with liberal arts, married with the humanities, that yields results that make our hearts sing."**
+
+<br/>
+
+> **"The people who are crazy enough to think they can change the world are the ones who do."**
+
+<br/>
+
+> **"Stay hungry. Stay foolish."**
+> — *Steve Jobs*
+
+<br/>
+
+---
+
+🌍 *My own philosophy:*
+
 > *"Art doesn't stop at the edge of the canvas,*
-> *and technology is more than code…*
-> *Together, they create a whole new world."* 🌍✨
+> *and technology is more than code —*
+> *together, they create a whole new world."* ✨
 
 </div>
+
+---
+
+## 🚀 Tech & Innovation Timeline
+
+```
+1970s ──▶ Microprocessors change everything
+1984  ──▶ First Macintosh — design meets computing 🍎
+1991  ──▶ World Wide Web goes public 🌐
+2007  ──▶ iPhone redefines human-technology interaction 📱
+2012  ──▶ Arduino empowers makers & engineers everywhere 🤖
+2016  ──▶ AI & deep learning enter everyday life 🧠
+2024  ──▶ Generative AI reshapes creativity & code ⚡
+NOW   ──▶ Malak Sisar — designing the next chapter 🌟
+```
 
 ---
 
