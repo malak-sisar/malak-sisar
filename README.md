@@ -1,70 +1,128 @@
-<h1 align="center">👩‍💻 Malak Sisar</h1>
-<p align="center">Graphic Designer & Robotics Enthusiast</p>
-<p align="center">Bringing art and technology together to build the future.</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120" alt="creative tech gif" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Malak%20Sisar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Graphic%20Designer%20%E2%9C%A6%20Robotics%20Enthusiast&descAlignY=54&descSize=18" width="100%"/>
+
+<!-- Badges row -->
+<p>
+  <img src="https://img.shields.io/badge/FreePalestine-%F0%9F%87%B5%F0%9F%87%B8%20Tech_For_Palestine-D83838?labelColor=01B861&color=D83838" />
+  <a href="https://techforpalestine.org/learn-more">
+    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=malak-sisar&style=flat-square&color=blueviolet&label=Profile+Views" />
 </p>
 
-<div align=center> 
- 
- ![Free Palestine](https://img.shields.io/badge/FreePalestine-%F0%9F%87%B5%F0%9F%87%B8%20Tech_For_Palestine-D83838?labelColor=01B861&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
-[![ReadMeViews](https://komarev.com/ghpvc/?username=malak-sisar&style=flat-square&color=blueviolet)](https://www.linkedin.com/in/sondosaabed/)
+<br/>
 
- 
----        
-     
-## ✨ About Me
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Turning+art+into+code+%F0%9F%8E%A8%E2%86%92%F0%9F%A4%96;Designing+worlds%2C+one+pixel+at+a+time+%E2%9C%A8" alt="Typing SVG" />
 
-Hello! I'm **Malak Sisar** — a unique blend of artistic creativity and technical precision.  
-I love exploring the worlds of **graphic design** and **robotics**.  
-Always eager to learn and create innovative projects that merge art and technology.
+</div>
 
 ---
 
-## 💼 Areas of Interest
+## 🌌 About Me
 
-- 🎨 Graphic Design (visual identity, UI/UX, digital illustration)
-- 🤖 Robotics design and development using tools like Arduino and Fusion 360
-- 🧠 Blending creativity and technology to produce unique and meaningful projects
-
----
-
-## 🛠️ Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,blender,arduino,vscode" alt="tools I use" />
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://streakhub.onrender.com/widget/malak-sisar?v=20250528"width="420" />
-</p>
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malak-sisar&show_icons=true&theme=dracula" alt="github stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malak-sisar&theme=dracula" alt="github streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malak-sisar&layout=compact&theme=dracula" alt="top languages" />
-</p>
+```yaml
+name       : Malak Sisar
+role       : Graphic Designer & Robotics Enthusiast
+passion    : Where art meets engineering
+superpower : Turning ideas into visual and mechanical reality
+currently  : Building projects that merge creativity & tech
+quote      : "Art doesn't end at the canvas edge,
+              and technology is more than code —
+              together they create a whole new world." 🌍
+```
 
 ---
 
-## 📬 Contact Me
+## 💡 What I Do
 
-- 📧 Email: [malaksisar@gmail.com](mailto:malaksisar@gmail.com)
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Design
+- Visual identity & brand systems
+- UI/UX design & prototyping
+- Digital illustration & motion graphics
+- Typography & layout composition
+
+</td>
+<td width="50%">
+
+### 🤖 Robotics
+- Hardware design with **Arduino**
+- 3D modeling in **Fusion 360**
+- Mechanical prototyping
+- Bridging physical & digital worlds
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ My Toolkit
+
+<div align="center">
+
+### Design
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,blender&theme=dark" />
+
+### Engineering & Development
+<img src="https://skillicons.dev/icons?i=arduino,vscode,git,github&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streakhub.onrender.com/widget/malak-sisar?v=20250528" width="420" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=malak-sisar&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=B57BFF&icon_color=B57BFF&text_color=ffffff&ring_color=B57BFF" width="420"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malak-sisar&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=B57BFF&text_color=ffffff" width="320"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malak-sisar&theme=dracula&hide_border=true&background=0d1117&ring=B57BFF&fire=ff6e6e&currStreakLabel=B57BFF" width="500"/>
+
+</div>
 
 ---
 
 ## 🌟 Favorite Quote
 
-> "Art doesn’t stop at the edge of the canvas, and technology is more than code... Together, they create a whole new world." 🌍✨
+<div align="center">
+
+> *"Art doesn't stop at the edge of the canvas,*
+> *and technology is more than code…*
+> *Together, they create a whole new world."* 🌍✨
+
+</div>
+
 ---
-## In Conclusion
- [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-malaksisar%40gmail.com-B57BFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malaksisar@gmail.com)
+
+</div>
+
 ---
+
+<div align="center">
+
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
