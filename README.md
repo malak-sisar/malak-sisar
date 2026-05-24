@@ -17,6 +17,11 @@
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Turning+art+into+code+%F0%9F%8E%A8%E2%86%92%F0%9F%A4%96;Designing+worlds%2C+one+pixel+at+a+time+%E2%9C%A8" alt="Typing SVG" />
 
+<br/>
+
+<!-- Robot GIF - Header -->
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="160" alt="robot gif" />
+
 </div>
 
 ---
@@ -31,10 +36,54 @@ education  : Computer Engineering Student 🎓
 passion    : Where art meets engineering
 superpower : Turning ideas into visual and mechanical reality
 currently  : Building projects that merge creativity & tech
+fun_fact   : I debug robots AND my life at the same time 🤖💀
+coffee     : Yes. Always. Non-negotiable ☕
+sleep      : git stash  # will deal with it later
 quote      : "Art doesn't end at the canvas edge,
               and technology is more than code —
               together they create a whole new world." 🌍
 ```
+
+---
+
+## 😂 A Little Fun
+
+<div align="center">
+
+| Joke | Reality |
+|------|---------|
+| "I'll fix it in 5 minutes" | 3 hours later... 💀 |
+| "It works on my machine" | ships machine to client 📦 |
+| "No more all-nighters" | *said last semester too* 😴 |
+| "Clean code, I promise" | `// TODO: fix this mess` 😅 |
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="240" alt="funny coding" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="240" alt="github commit meme" />
+</div>
+
+<br/>
+
+> 🐛 **Why do programmers prefer dark mode?**
+> Because light attracts bugs.
+
+> ☕ **Me at 2am:** "Just one more bug to fix..."
+> **Also me at 6am:** 👁️👄👁️
+
+> 🤖 **My robot after 10 hours of work:**
+> *proceeds to go in circles and crash into the wall*
+
+> 🎓 **Me pretending to understand the lecture:**
+> ✅ opened laptop &nbsp; ✅ nodded seriously &nbsp; ❌ absolutely no idea what's happening
+
+<div align="center">
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="260" alt="this is fine meme" />
+</div>
 
 ---
 
@@ -62,6 +111,10 @@ quote      : "Art doesn't end at the canvas edge,
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif" />
+</div>
 
 ---
 
@@ -130,6 +183,10 @@ quote      : "Art doesn't end at the canvas edge,
 
 ---
 
+<div align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="technology gif" />
+</div>
+
 ## 🚀 Tech & Innovation Timeline
 
 ```
@@ -149,7 +206,7 @@ NOW   ──▶ Malak Sisar — designing the next chapter 🌟
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-malak.sisar%40gmail.com-B57BFF?style=for-the-badge&logo=gmail&logoColor=white)](malak.sisar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-malak.sisar%40gmail.com-B57BFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malak.sisar@gmail.com)
 
 </div>
 
