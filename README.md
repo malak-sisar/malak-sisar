@@ -149,7 +149,7 @@ NOW   ──▶ Malak Sisar — designing the next chapter 🌟
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-malaksisar%40gmail.com-B57BFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malaksisar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-malak.sisar%40gmail.com-B57BFF?style=for-the-badge&logo=gmail&logoColor=white)](malak.sisar@gmail.com)
 
 </div>
 
